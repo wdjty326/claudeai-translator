@@ -8,7 +8,7 @@
 .env 파일 생성
 ```bash
 # .env
-CLAUDE_API_KEY={CLAUDE_API_KEY}
+ANTHROPIC_API_KEY={ANTHROPIC_API_KEY}
 ```
 
 node_modules 설치
